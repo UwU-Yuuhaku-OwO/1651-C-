@@ -1,0 +1,15 @@
+D:\GreenCode\test\Lab2New\Lab2New\bin\Debug\net7.0\Lab2New.exe
+D:\GreenCode\test\Lab2New\Lab2New\bin\Debug\net7.0\Lab2New.deps.json
+D:\GreenCode\test\Lab2New\Lab2New\bin\Debug\net7.0\Lab2New.runtimeconfig.json
+D:\GreenCode\test\Lab2New\Lab2New\bin\Debug\net7.0\Lab2New.dll
+D:\GreenCode\test\Lab2New\Lab2New\bin\Debug\net7.0\Lab2New.pdb
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.csproj.AssemblyReference.cache
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.AssemblyInfoInputs.cache
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.AssemblyInfo.cs
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.csproj.CoreCompileInputs.cache
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.dll
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\refint\Lab2New.dll
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.pdb
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\Lab2New.genruntimeconfig.cache
+D:\GreenCode\test\Lab2New\Lab2New\obj\Debug\net7.0\ref\Lab2New.dll
