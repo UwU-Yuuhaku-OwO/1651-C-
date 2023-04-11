@@ -25,7 +25,7 @@ namespace Lab2
                         Console.WriteLine("\t  Menu \n");
                         Console.WriteLine("\t1. Add \n");
                         Console.WriteLine("\t2. Show . \n");
-                        Console.WriteLine("\t3. Search by name \n");
+                        Console.WriteLine("\t3. ShowHiLoScore\n");
                         Console.WriteLine("\t4. Search by Id \n");
                         Console.WriteLine("\t5. Remove by Id\n");
                         Console.WriteLine("\t6. Update by Id\n");
@@ -39,13 +39,36 @@ namespace Lab2
                                 student_list.AddStudent();
                                 Console.ReadKey();
                                 break;
+
                             case 2:
                                 Console.Clear();
                                 student_list.DisplayAllStudent();
                                 Console.ReadKey();
                                 break;
-                           
-       
+
+                            case 3:
+                                Console.Clear();
+                                student_list.ShowHiLoScore();
+                                Console.ReadKey();
+                                break;
+
+                           case 4:
+                                Console.Clear();
+                                Console.WriteLine("ID:");
+                                string id = Console.ReadLine();
+                                student_list.SearchStudentById(id);
+                                Console.ReadKey();
+                                break;
+
+                            case 5:
+                                Console.Clear();
+                                student_list.hocBong();
+                                Console.ReadKey();
+                                break;
+
+/*
+                            
+       */
                             case 0:
                                 break;
                             default:
